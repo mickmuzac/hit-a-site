@@ -1,0 +1,8 @@
+{
+	"name": "hit-a-site",
+	"version": "0.0.1",
+	"author": "Mick Muzac <mmuzac23@gmail.com>",
+	"dependencies": {
+		"request": "2.62.x"
+	}
+}
